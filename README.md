@@ -31,7 +31,7 @@ Clone the repo:
 
 sh
 Copy
-git clone https://github.com/your-username/react-lab.git  
+git clone https://github.com/aliarshad46515/react-lab.git  
 Navigate to a project:
 
 sh
