@@ -43,7 +43,7 @@ sh
 Copy
 npm install  
 npm run dev  
-🔹 Why "React Lab"?
+🔹 Why "React Hive"?
 This repo serves as:
 
 A learning sandbox for trying new libraries.
