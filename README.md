@@ -1,4 +1,4 @@
-# React-Lab-
+# React-Hive
 A playground for experimenting with React, hooks, components, and modern frontend techniques.
 React Lab 🧪⚛️
 A playground for experimenting with React, hooks, components, and modern frontend techniques.
